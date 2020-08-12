@@ -1,3 +1,3 @@
 # Crosscorrelate-Audio
 
-Crosscorrelates audio files and scores them basic on similarities.
+Crosscorrelates audio files and scores them basic on similarities for experiments.
